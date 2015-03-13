@@ -2,7 +2,7 @@ FROM pamtrak06/ubuntu14.04-apache2-python
 
 MAINTAINER pamtrak06 <pamtrak06@gmail.com>
 
-RUN apt-get install software-properties-common
+RUN apt-get install -y software-properties-common
 RUN add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 RUN add-apt-repository ppa:grass/grass-stable
 RUN apt-get update
