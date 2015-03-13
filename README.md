@@ -4,7 +4,7 @@
 
 > [Source : http://grass.osgeo.org ](http://grass.osgeo.org/documentation/first-time-users/)
 
-![logo](http://grass.osgeo.org/uploads/images/logo/grasslogo_vector_big.png)
+![logo](http://grass.osgeo.org/uploads/images/logo/grasslogo_vector_small.png)
 
 # How to use this image
 
