@@ -45,3 +45,8 @@ For more information about configuration, see http://grass.osgeo.org/documentati
 "Copyright, 1999-2013 GRASS Development Team, and licensed under terms of the GNU General Public License (GPL). This includes all software, documentation, and associated materials."
 
 See http://grass.osgeo.org/home/copyright/
+
+## Docker utility
+
+For easy use of docker command, try [edocker](https://github.com/pamtrak06/edocker).
+Create your edocker.cfg configuration file (parameters for most used docker commands ) and then use edocker<command> in any docker working project container those configuration file !
